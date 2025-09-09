@@ -35,4 +35,4 @@ This project is an AI-powered HR chatbot that automates essential HR tasks using
 
 ```bash
 git clone https://github.com/shaarvarij/Chatbot_HR_automation.git
-cd hr_chatbot
+cd Chatbot_HR_automation
